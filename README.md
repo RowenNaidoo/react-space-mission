@@ -1,5 +1,5 @@
 # react-space-mission
-React application that displays and filters space missions from a local api.
+React application that displays and filters space missions from a local api. Good practise project for improving functional style Javascript and using flexbox to achieve a responsive design.
 
 ## Setup
 ### Api server
